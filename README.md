@@ -1,4 +1,4 @@
 # fizzBuzz
 odin project
 javascript foundations - problem solving
-https://optimistic-shirley-266e3a.netlify.app
+https://optimistic-thompson-7c8fe6.netlify.app
